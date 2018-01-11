@@ -1,17 +1,31 @@
-#Battle grounds
-## map
-###**에랑겔**
-배그는 **에랑겔**
-###~~사막~~
-개인적으로 너무 싫어하는 맵. 엄폐물도 없고 파밍도 안되고 아무것도 없어
-##Gun
-###AR
-없으면 노답... M4,M16, AK 등등 많은 총들이 있다. M4가 연사하기편하고 부속품도 많이 달 수 있다. M16 딴 총 없으면 쓰는데 싫어
-AK 7탄이라 위력은 센데 반동이 심하다
-###SR
-Kar98, sks, vss 등 총들이 있다. 보급도 있지만 먹으러가다 죽어서 생략. Kar98 그냥 아프다. Kar98에 4배율만 있어도...
-sks Kar98보다 위력은 약하지만 사용하기는 편함. vss 음....
-###SMG
-단거리 연사 에바
-......
-결론은 배그하고 싶다...
+# PilotPlant
+
+Preparing cocoapods distribution.
+
+[![CI Status](http://img.shields.io/travis/lingostar/PilotPlant.svg?style=flat)](https://travis-ci.org/lingostar/PilotPlant)
+[![Version](https://img.shields.io/cocoapods/v/PilotPlant.svg?style=flat)](http://cocoapods.org/pods/PilotPlant)
+[![License](https://img.shields.io/cocoapods/l/PilotPlant.svg?style=flat)](http://cocoapods.org/pods/PilotPlant)
+[![Platform](https://img.shields.io/cocoapods/p/PilotPlant.svg?style=flat)](http://cocoapods.org/pods/PilotPlant)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+PilotPlant is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod "PilotPlant"
+```
+
+## Author
+
+lingostar, admin@lingostar.co.kr
+
+## License
+
+PilotPlant is available under the Mixed license. See the LICENSE file for more info.
